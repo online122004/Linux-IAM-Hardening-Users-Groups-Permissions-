@@ -1,7 +1,7 @@
  
 # Linux IAM & Hardening (User, group, permissions)
 
-A hands-on project demonstrating Identity & Access Management (IAM) and system hardening on Ubuntu Linux. Design secure user/group models, identify misconfigurations, and implement remediation strategies.
+A hands-on project demonstrating Identity & Access Management (IAM) and system hardening on Ubuntu Server. Design secure user/group models, identify misconfigurations, and implement remediation strategies.
 
 ## 📋 Project Overview
 
