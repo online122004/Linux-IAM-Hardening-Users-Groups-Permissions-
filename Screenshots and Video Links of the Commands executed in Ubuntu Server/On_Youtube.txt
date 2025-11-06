@@ -1,0 +1,10 @@
+1. Creating Groups, users
+   - https://youtu.be/PJJeJ0BYnS0?si=-XEcYYP6wLNbJKN3
+2. POSIX + ACL permission
+   - https://youtu.be/jtjbQ4JfLZE?si=tBuvTYS89GgUwVU7
+3. Enable Auditing
+   - https://youtu.be/e0fYDtZ84u0?si=gtKRR2_uCdFzzP7d
+4. Intentionally Created Misconnfigurations.
+  - https://youtu.be/ePtBKlZCAYo?si=mIlsMfPNrw2QXVKB
+5. Fixing those Misconfiguration files.
+  - https://youtu.be/5WPBhAML4ic?si=dG1jIjUrF9ArgIHe
