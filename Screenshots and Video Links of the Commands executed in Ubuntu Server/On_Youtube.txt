@@ -6,5 +6,5 @@
    - https://youtu.be/e0fYDtZ84u0?si=gtKRR2_uCdFzzP7d
 4. Intentionally Created Misconnfigurations.
   - https://youtu.be/ePtBKlZCAYo?si=mIlsMfPNrw2QXVKB
-5. Fixing those Misconfiguration files.
+5. Fixing those intentionally misconfigured files.
   - https://youtu.be/5WPBhAML4ic?si=dG1jIjUrF9ArgIHe
